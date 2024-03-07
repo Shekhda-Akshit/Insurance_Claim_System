@@ -13,11 +13,11 @@ Remix IDE
 
 ## Lessons Learned
 
-(1) Understanding of Blockchain and Smart Contracts    
-(2) Solidity Proficiency
-(3) Domain Knowledge  
-(4) Transparency and Trust 
-(5) Cryptography
+(1) Understanding of Blockchain and Smart Contracts      
+(2) Solidity Proficiency  
+(3) Domain Knowledge    
+(4) Transparency and Trust   
+(5) Cryptography  
 
 
 
